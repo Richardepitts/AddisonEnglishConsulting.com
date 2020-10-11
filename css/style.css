@@ -1,0 +1,214 @@
+@font-face {
+    src: url(fonts/Orpheus-Pro.otf);
+    font-family: Orpheus-Pro;
+}
+
+body {
+    font-family: 'Orpheus-Pro'!important;
+}
+
+.about {
+    width: 120px;
+    height: 31px;
+    left: 43px;
+    top: 8px!important;
+    background-image: url('/css/fonts/icons/about.svg');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+  }
+  
+.about:hover {
+    background-position: 0 -1px;
+  }
+
+.aboutFont {
+    font-family: 'Orpheus-Pro'!important;
+    color: black!important;
+  }
+
+
+  .consulting {
+    width: 45px;
+    height: 31px;
+    left: 29px;
+    top: 4px!important;
+    background-image: url('/css/fonts/icons/consulting.svg');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+  }
+  
+.consulting:hover {
+    background-position: 0 -1px;
+  }
+
+.consultingFont {
+      font-family: 'Orpheus-Pro'!important;
+      color: black!important;
+  }
+
+  .consulting {
+    width: 45px;
+    height: 31px;
+    left: 29px;
+    top: 8px!important;
+    background-image: url('/css/fonts/icons/consulting.svg');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+  }
+  
+.consulting:hover {
+    background-position: 0 -1px;
+  }
+
+.consultingFont {
+      font-family: 'Orpheus-Pro'!important;
+      color: black!important;
+  }
+
+  .follow {
+    width: 45px;
+    height: 31px;
+    left: 11px;
+    top: 8px!important;
+    background-image: url('/css/fonts/icons/follow.svg');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+  }
+  
+.follow:hover {
+    background-position: 0 -1px;
+  }
+
+.followFont {
+      font-family: 'Orpheus-Pro'!important;
+      color: black!important;
+  }
+
+  .resources {
+    width: 45px;
+    height: 31px;
+    left: 21px;
+    top: 8px!important;
+    background-image: url('/css/fonts/icons/resources.svg');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+  }
+  
+.resources:hover {
+    background-position: 0 -1px;
+  }
+
+.resourcesFont {
+      font-family: 'Orpheus-Pro'!important;
+      color: black!important;
+  }
+
+  .email {
+    width: 45px;
+    height: 31px;
+    left: 6px;
+    top: 8px!important;
+    background-image: url('/css/fonts/icons/email.svg');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+  }
+  
+.email:hover {
+    background-position: 0 -1px;
+  }
+
+.emailFont {
+      font-family: 'Orpheus-Pro'!important;
+      color: black!important;
+  }
+
+  .mainHeader {
+    font-family: 'Orpheus-Pro'!important;
+  }
+
+  .mainHeader2 {
+    font-family: 'Orpheus-Pro'!important;
+  }
+
+  .mainHeaderButton {
+    font-family: 'Orpheus-Pro'!important;
+  }
+
+  @media only screen and (max-width: 3600px) {
+    .aeLogo {
+      width: 66%!important;
+    }
+  }
+
+  .developedBy {
+    color: blue!important;
+  }
+
+  .connectFooter {
+    left: 24px!important;
+    /* border: 3px pink solid; */
+    /* text-align: center; */
+  }
+
+  .facebookFooter {
+    background-image: url('/css/fonts/icons/facebook.svg')!important;
+    background-position: 0 0!important;
+    background-repeat: no-repeat!important;
+  }
+  .facebook:hover {
+    background-position: 0 -1px;
+  }
+
+  .twitterFooter {
+    background-image: url('/css/fonts/icons/twitter.svg')!important;
+    background-position: 0 0!important;
+    background-repeat: no-repeat!important;
+  }
+
+  .linkedinFooter {
+    background-image: url('/css/fonts/icons/linkedin.svg')!important;
+    background-position: 0 0!important;
+    background-repeat: no-repeat!important;
+  }
+
+  .box_leftH2 {
+    font-family: 'Orpheus-Pro'!important;
+  }
+
+  .consultingCircle {
+    display: flex!important;
+    margin-left: 13px!important;
+    margin-top: 14px!important;
+    background-image: url('/css/fonts/icons/consulting.svg');
+    background-position: 100 0;
+    background-repeat: no-repeat;
+  }
+
+  .resourcesCircle {
+    display: flex!important;
+    margin-left: 14px!important;
+    margin-top: 14px!important;
+    background-image: url('/css/fonts/icons/resources.svg');
+    background-position: 100 0;
+    background-repeat: no-repeat;
+  }
+
+  .thinkingBox {
+    font-family: 'Orpheus-Pro'!important;
+    font-size: 19px;
+  }
+
+  .successStories {
+    font-family: 'Orpheus-Pro'!important;
+    font-size: 52px;
+  }
+
+  .caseStudy {
+    font-family: 'Orpheus-Pro'!important;
+    font-size: 12px;
+  }
+
+  .successStoriesDisclaimer {
+    font-family: 'Orpheus-Pro'!important;
+    font-size: 23px;
+  }
