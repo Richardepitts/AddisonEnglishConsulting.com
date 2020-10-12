@@ -184,13 +184,24 @@ body {
     background-repeat: no-repeat;
   }
 
+
+  .consultingCircle:hover {
+    background-position: 0 -1px!important;
+  }
+
   .resourcesCircle {
     display: flex!important;
-    margin-left: 14px!important;
-    margin-top: 14px!important;
-    background-image: url('/css/fonts/icons/resources.svg');
-    background-position: 100 0;
+    margin-left: 14.5px!important;
+    margin-top: 12.5px!important;
+    top: 10px!important;
+    z-index: 999;
+    background-image: url(/css/fonts/icons/resources.svg);
+    background-position: 0px 1px;
     background-repeat: no-repeat;
+  }
+
+  .resourcesCircle:hover {
+    background-position: 0 -0.2px;
   }
 
   .thinkingBox {
@@ -211,4 +222,18 @@ body {
   .successStoriesDisclaimer {
     font-family: 'Orpheus-Pro'!important;
     font-size: 23px;
+  }
+
+  .copyrightPart {
+    font-size: 13px!important;
+  }
+
+  .consultingHeader {
+    font-family: 'Orpheus-Pro'!important;
+    font-size: 33px;
+  }
+
+  .resourcesHeader {
+    font-family: 'Orpheus-Pro'!important;
+    font-size: 33px;
   }
