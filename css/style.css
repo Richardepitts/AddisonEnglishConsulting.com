@@ -7,6 +7,14 @@ body {
     font-family: 'Orpheus-Pro'!important;
 }
 
+.bolded {
+  font-size: 17px!important;
+}
+
+.bolded2 {
+  font-size: 20px!important;
+}
+
 .about {
     width: 120px;
     height: 31px;
@@ -226,6 +234,7 @@ body {
 
   .copyrightPart {
     font-size: 13px!important;
+    margin-top: 30px!important;
   }
 
   .consultingHeader {
@@ -236,4 +245,9 @@ body {
   .resourcesHeader {
     font-family: 'Orpheus-Pro'!important;
     font-size: 33px;
+  }
+
+  .centerPlan {
+    color: white!important;
+    font-size: 17px!important;
   }
