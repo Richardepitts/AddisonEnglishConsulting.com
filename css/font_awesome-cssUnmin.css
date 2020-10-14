@@ -4,9 +4,9 @@
  */
  @font-face {
     font-family: "FontAwesome";
-    src: url("../fonts/fontawesome-webfont.eot?v=4.3.0");
-    src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.3.0") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff2?v=4.3.0") format("woff2"), url("../fonts/fontawesome-webfont.woff?v=4.3.0") format("woff"),
-        url("../fonts/fontawesome-webfont.ttf?v=4.3.0") format("truetype"), url("../fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular") format("svg");
+    src: url("http://advancedprocessoptimization.com//fonts/fontawesome-webfont.eot?v=4.3.0");
+    src: url("http://advancedprocessoptimization.com//fonts/fontawesome-webfont.eot?#iefix&v=4.3.0") format("embedded-opentype"), url("http://advancedprocessoptimization.com/fonts/fontawesome-webfont.woff2?v=4.3.0") format("woff2"), url("http://advancedprocessoptimization.com//fonts/fontawesome-webfont.woff?v=4.3.0") format("woff"),
+        url("http://advancedprocessoptimization.com//fonts/fontawesome-webfont.ttf?v=4.3.0") format("truetype"), url("http://advancedprocessoptimization.com//fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -655,7 +655,7 @@
     content: "\f0a8";
 }
 .fa-arrow-circle-right:before {
-    content: "\f0a9";
+    content: url('/css/fonts/icons/rightTestimonialsArrow.svg');
 }
 .fa-arrow-circle-up:before {
     content: "\f0aa";

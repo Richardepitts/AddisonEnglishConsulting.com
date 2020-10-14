@@ -248,6 +248,48 @@ body {
   }
 
   .centerPlan {
-    color: white!important;
+    color: black!important;
     font-size: 17px!important;
+  }
+
+  .centerPlan {
+    font-size: 14px!important;
+  }
+
+  .letUsHelpYou {
+    color:#00ACEC!important;
+    font-size: 17px!important;
+  }
+
+  .readMoreTestimonials {
+    color:#00ACEC!important;
+    font-size: 17px!important;
+  }
+
+  .whatWeDoTitle {
+    font-family: 'Orpheus-Pro'!important;
+    font-size: 66px!important;
+  }
+
+  .whatWeDoParagraph {
+    font-size: 17px!important;
+  }
+
+  .testimonialsHeader {
+    font-family: 'Orpheus-Pro'!important;
+    font-size: 49px!important;
+    text-align: center;
+    margin-top:8px;
+  }
+
+  .footerPhone {
+    background-image: url(/css/fonts/icons/phone.svg);
+    background-position: 0px 1px;
+    background-repeat: no-repeat;
+  }
+
+  .footerPhone::before {
+    background-image: url(/css/fonts/icons/phone.svg);
+    background-position: 0px 1px;
+    background-repeat: no-repeat;
   }
