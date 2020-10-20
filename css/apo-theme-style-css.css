@@ -358,7 +358,7 @@ html {
   @font-face {
     font-family: 'ElegantIcons';
     src: url("fonts/icons/about.svg");
-    /* src: url("fonts/ElegantIcons.eot?#iefix") format("embedded-opentype"), url("fonts/ElegantIcons.woff") format("woff"), url("fonts/ElegantIcons.ttf") format("truetype"), url("fonts/ElegantIcons.svg#ElegantIcons") format("svg"); */
+    src: url("fonts/ElegantIcons.eot?#iefix") format("embedded-opentype"), url("fonts/ElegantIcons.woff") format("woff"), url("fonts/ElegantIcons.ttf") format("truetype"), url("fonts/ElegantIcons.svg#ElegantIcons") format("svg");
     font-weight: normal;
     font-style: normal; }
   
@@ -1346,7 +1346,6 @@ html {
     #page .tab-content {
       width: 100%;
       float: left;
-      padding: 15px 0;
       box-sizing: border-box;
       -webkit-animation: enter 0.7s ease-in-out;
       -moz-animation: enter 0.7s ease-in-out;
