@@ -233,8 +233,7 @@ body {
   }
 
   .copyrightPart {
-    font-size: 13px!important;
-    margin-top: 30px!important;
+    /* margin-top: 30px!important; */
   }
 
   .consultingHeader {
@@ -322,3 +321,26 @@ body {
   .whatWeDoQuestions {
     font-size: 17px;
   }
+
+  #secondary {
+    /* display: flex; */
+  }
+
+  #s { 
+    border: 1px solid #3e3e3e!important;
+  }
+
+  .widget-title {
+    font-size: 31px;
+  }
+
+  .phoneNumberFooter {
+    font-size:15px;
+  }
+
+  .copyrightText, .developedByText, .developerText {
+    font-size: 15px!important;
+    color: black!important;
+  }
+  
+
