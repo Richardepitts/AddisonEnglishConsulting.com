@@ -1198,7 +1198,7 @@ html {
         z-index: 10; }
     #page #secondary {
       padding: 30px 50px 5px 230px !important;
-      background: #fff url(images/footer_b2g.jpg);
+      background: #fff url(images/footer_b2g.png);
       background-size: 100% 100%;
       position: relative;
       z-index: 20;

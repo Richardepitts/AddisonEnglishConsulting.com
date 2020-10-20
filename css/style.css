@@ -269,6 +269,7 @@ body {
   .whatWeDoTitle {
     font-family: 'Orpheus-Pro'!important;
     font-size: 66px!important;
+    text-align: center;
   }
 
   .whatWeDoParagraph {
@@ -292,4 +293,32 @@ body {
     background-image: url(/css/fonts/icons/phone.svg);
     background-position: 0px 1px;
     background-repeat: no-repeat;
+  }
+
+  .theAEAdvantage {
+    font-family: 'Orpheus-Pro'!important;
+    text-align: center;
+  }
+
+  .successStoriesArticles {
+    font-family: 'Orpheus-Pro'!important;
+  }
+
+  .successStoriesHeader {
+    font-family: 'Orpheus-Pro'!important;
+    text-align: center;
+  }
+
+  .ourApproachHeader {
+    font-family: 'Orpheus-Pro'!important;
+    font-size: 49px!important;
+    text-align: center;
+  }
+  
+  .searchInput {
+    border: 1px solid rgb(55, 55, 55)!important;
+  }
+
+  .whatWeDoQuestions {
+    font-size: 17px;
   }
