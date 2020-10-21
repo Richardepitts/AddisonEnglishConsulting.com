@@ -733,7 +733,9 @@ html {
     .main-navigation .current-menu-item > a i,
     .main-navigation
   .current_page_ancestor > a i {
-      color: #404040; }
+      color: #404040; 
+      font-family: 'Orpheus-Pro'!important;
+    }
   
   .page-id-27 .current_page_ancestor > a,
   .page-id-27 .current_page_ancestor > a i {

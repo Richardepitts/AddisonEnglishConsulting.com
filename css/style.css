@@ -25,9 +25,9 @@ body {
     background-repeat: no-repeat;
   }
   
-.about:hover {
+/* .about:hover {
     background-position: 0 -1px;
-  }
+  } */
 
 .aboutFont {
     font-family: 'Orpheus-Pro'!important;
@@ -83,9 +83,9 @@ body {
     background-repeat: no-repeat;
   }
   
-.follow:hover {
+/* .follow:hover {
     background-position: 0 -1px;
-  }
+  } */
 
 .followFont {
       font-family: 'Orpheus-Pro'!important;
@@ -102,9 +102,9 @@ body {
     background-repeat: no-repeat;
   }
   
-.resources:hover {
+/* .resources:hover {
     background-position: 0 -1px;
-  }
+  } */
 
 .resourcesFont {
       font-family: 'Orpheus-Pro'!important;
@@ -121,9 +121,9 @@ body {
     background-repeat: no-repeat;
   }
   
-.email:hover {
+/* .email:hover {
     background-position: 0 -1px;
-  }
+  } */
 
 .emailFont {
       font-family: 'Orpheus-Pro'!important;
@@ -193,9 +193,9 @@ body {
   }
 
 
-  .consultingCircle:hover {
+  /* .consultingCircle:hover {
     background-position: 0 -1px!important;
-  }
+  } */
 
   .resourcesCircle {
     display: flex!important;
@@ -204,13 +204,13 @@ body {
     top: 10px!important;
     z-index: 999;
     background-image: url(/css/fonts/icons/resources.svg);
-    background-position: 0px 1px;
+    background-position: 0px 5px;
     background-repeat: no-repeat;
   }
 
-  .resourcesCircle:hover {
+  /* .resourcesCircle:hover {
     background-position: 0 -0.2px;
-  }
+  } */
 
   .thinkingBox {
     font-family: 'Orpheus-Pro'!important;
@@ -350,4 +350,10 @@ body {
     color: black!important;
   }
   
+  .moreInfo {
+    font-family: 'Orpheus-Pro'!important;
+  }
 
+  .menu-item {
+    font-family: 'Orpheus-Pro'!important;
+  }
