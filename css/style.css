@@ -258,11 +258,18 @@ body {
   .letUsHelpYou {
     color:#00ACEC!important;
     font-size: 17px!important;
+    font-family: 'Orpheus-Pro'!important;
+  }
+  .letUsHelpYou:hover {
+    color:#ffffff!important;
+    font-size: 17px!important;
+    font-family: 'Orpheus-Pro'!important;
   }
 
   .readMoreTestimonials {
     color:#00ACEC!important;
-    font-size: 17px!important;
+    font-size: 20px!important;
+    font-family: 'Orpheus-Pro'!important;
   }
 
   .whatWeDoTitle {
