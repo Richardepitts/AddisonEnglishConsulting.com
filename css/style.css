@@ -358,6 +358,19 @@ body {
     font-family: 'Orpheus-Pro'!important;
   }
 
+  .mainHeaderNew {
+    color:black!important;
+    font-size: 49px!important;
+    font-family: 'Orpheus-Pro'!important;
+  }
+
+  @media only screen and (max-width: 740px) {
+    .mainHeaderNew {
+      font-size: 34px!important;
+    }
+  }
+
+
 
   .mainHeader {
     /* color:black!important;

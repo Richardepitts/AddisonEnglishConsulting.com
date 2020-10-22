@@ -528,8 +528,9 @@ html {
   button.big_btn {
     font-size: 14.4px;
     font-size: 0.9rem;
-    padding: 12px 35px; }
-  
+    padding: 12px 35px; 
+    font-family: 'Orpheus-Pro'!important;
+  }
   @media screen and (max-width: 480px) {
     button.big_btn {
       font-size: 12.8px;
@@ -1616,6 +1617,14 @@ html {
     .home .home_section_top .video_container video {
       min-width: 100%;
       min-height: 100%; }
+
+        /* @media only screen and (max-width: 1200px) {
+          .home .home_section_top .video_container video {
+            width: 1200px!important;
+            height: 100%!important;
+            mask-image: url('/css/images/Approach.jpg');
+          }
+        } */
     .home .home_section_top .center_vert {
       display: table-cell;
       vertical-align: middle;
@@ -1625,9 +1634,11 @@ html {
       width: 830px;
       color: #00acec; }
     .home .home_section_top .intro {
-      max-width: 800px;
+      max-width: 860px;
       margin: 0 auto;
-      margin-top: 20px; }
+      margin-top: 20px; 
+      font-size: 21px;
+    }
     .home .home_section_top button {
       margin-top: 30px; }
   
